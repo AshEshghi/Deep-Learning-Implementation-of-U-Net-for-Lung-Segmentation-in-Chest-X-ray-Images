@@ -8,5 +8,7 @@ data/
 __pycache__/
 *.pyc
 
-# optional: keep model weights out of github (recommended)
+# optional: keep model weights out of github
 *.pth
+!results/best_unet.pth
+
