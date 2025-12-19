@@ -16,7 +16,8 @@ The architecture is “U-shaped”:
 
 > **Ronneberger, O., Fischer, P., & Brox, T. (2015).**  
 > *U-Net: Convolutional Networks for Biomedical Image Segmentation.* (MICCAI)
-> https://arxiv.org/abs/1505.04597
+>
+> **link:** https://arxiv.org/abs/1505.04597
 
 All credit for the **U-Net architecture concept** belongs to the original authors. This repository is an **independent educational implementation** of the idea, adapted to lung segmentation on chest X-rays.
 
