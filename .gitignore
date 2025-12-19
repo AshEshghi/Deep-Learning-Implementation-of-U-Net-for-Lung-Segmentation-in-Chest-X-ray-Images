@@ -1,0 +1,12 @@
+# do NOT upload dataset
+data/
+
+# jupyter noise
+.ipynb_checkpoints/
+
+# python cache
+__pycache__/
+*.pyc
+
+# optional: keep model weights out of github (recommended)
+*.pth
